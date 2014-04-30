@@ -1,0 +1,4 @@
+Emails
+======
+
+Emails plugin
